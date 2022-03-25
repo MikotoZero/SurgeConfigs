@@ -11,5 +11,12 @@ DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
 USER-AGENT,*bili*
+DOMAIN-KEYWORD,cn-hk-eq-bcache-
 # 愛奇藝台灣站
 DOMAIN,cache.video.iqiyi.com
+IP-CIDR,116.211.202.206/32,no-resolve
+IP-CIDR,116.211.202.216/32,no-resolve
+# MangoTV(芒果TV国际)
+DOMAIN-SUFFIX,api.mgtv.com
+DOMAIN,mobileso.bz.mgtv.com
+
