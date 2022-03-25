@@ -1,0 +1,46 @@
+DOMAIN,nspasteboard.org
+DOMAIN-SUFFIX,caniusevia.com
+DOMAIN,download.sublimetext.com
+DOMAIN-SUFFIX,swiftobc.com
+DOMAIN,www.andyibanez.com
+DOMAIN-SUFFIX,rderik.com
+DOMAIN-SUFFIX,chaoxi.cyou // 潮汐 官网
+DOMAIN-SUFFIX,chaoxi.fun // chaoxi节点列表
+DOMAIN-SUFFIX,feedneo.net // neo节点列表
+DOMAIN-SUFFIX,xvideos-cdn.com // Added for: static-l3.xvideos-cdn.com:443
+DOMAIN-SUFFIX,safe.zj.189.cn // Added for webpage: http://safe.zj.189.cn/porno//?source=amQuMXMyczNzLmNvbS9iYnMvdGhyZWFkLTgyMzcwODUtMS0xLmh0bWw=&tagid=10011017&city=3539212
+DOMAIN,thecompanygame.neocities.org
+DOMAIN-SUFFIX,speed.io // Added for: cmp2.speed.io:443
+DOMAIN-SUFFIX,po18.tw // Added for webpage: www.po18.tw:443
+DOMAIN-SUFFIX,sexinsex.net // Added for webpage: http://sexinsex.net/bbs/index.php?ref=porndude
+PROCESS-NAME,1Password Updater // 1Password升级
+DOMAIN-SUFFIX,discordapp.page.link // Added for webpage: discordapp.page.link:443
+DOMAIN-SUFFIX,neoproxy.org
+DOMAIN-SUFFIX,programmersought.com
+DOMAIN-SUFFIX,mdeditor.tw
+DOMAIN,ncode.syosetu.com // Added for webpage: http://ncode.syosetu.com/n6316bn/
+DOMAIN-SUFFIX,bjango.com
+DOMAIN-SUFFIX,discourse-cdn.com
+DOMAIN-SUFFIX,feedneo.net
+DOMAIN-SUFFIX,zaobao.com
+IP-CIDR,148.66.134.36/22,no-resolve
+DOMAIN-SUFFIX,osuosl.org
+DOMAIN-SUFFIX,privatetunnel.com
+DOMAIN-SUFFIX,centrofiles.com
+DOMAIN-SUFFIX,bruceandmorgan.net // Added for webpage: bruceandmorgan.net:443
+DOMAIN,m.aixdzs.com // Added for webpage: m.aixdzs.com:443
+DOMAIN-SUFFIX,asiatimes.com
+DOMAIN-SUFFIX,goodsmile.info
+DOMAIN-SUFFIX,exhentai.org // Added for webpage: exhentai.org:443
+DOMAIN-SUFFIX,patreon.com
+DOMAIN,fgo.umowang.com
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN,m.manhuagui.com
+IP-CIDR,67.220.90.4/32,no-resolve
+DOMAIN-SUFFIX,seku.icu
+DOMAIN-SUFFIX,igomobile.de
+DOMAIN-SUFFIX,expressvpn.com
+DOMAIN-SUFFIX,69vj.com
+DOMAIN-SUFFIX,thisav.com
+DOMAIN-SUFFIX,arstechnica.com
+DOMAIN-SUFFIX,hinative.com // hinative App
