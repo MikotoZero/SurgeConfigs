@@ -1,3 +1,21 @@
+# 你懂的
+DOMAIN-SUFFIX,dmhy.org // 动漫花园
+DOMAIN-SUFFIX,36dm.club // 简单动漫 BT下载
+DOMAIN-SUFFIX,linovelib.com // 哔哩轻小说
+DOMAIN,m.aixdzs.com // 爱下电子书
+DOMAIN,m.manhuagui.com // 看漫画
+DOMAIN-SUFFIX,onlyfans.com 
+DOMAIN-SUFFIX,xvideos-cdn.com // xvideos
+DOMAIN-SUFFIX,po18.tw // po18文库
+DOMAIN-SUFFIX,sexinsex.net // SIS
+DOMAIN,thecompanygame.neocities.org
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,exhentai.org // Added for webpage: exhentai.org:443
+DOMAIN-SUFFIX,seku.icu
+DOMAIN-SUFFIX,69vj.com
+DOMAIN-SUFFIX,thisav.com
+DOMAIN-SUFFIX,torrentkitty.tv
+
 # Client
 PROCESS-NAME,Backup and Sync
 PROCESS-NAME,Day One
@@ -18,12 +36,29 @@ USER-AGENT,Instagram*
 USER-AGENT,Resilio Sync*
 USER-AGENT,WhatsApp*
 
+#1Password
+PROCESS-NAME,1Password Updater // 1Password升级
+
 # AgentNEO
 DOMAIN-SUFFIX,agentneo.io
 DOMAIN-SUFFIX,agentneo.me
+DOMAIN-SUFFIX,neoproxy.org
 
 # Akamai
 DOMAIN-SUFFIX,akamaized.net
+
+# Blogs
+DOMAIN-SUFFIX,rderik.com
+DOMAIN,www.andyibanez.com
+DOMAIN-SUFFIX,programmersought.com
+DOMAIN,syy.hk
+
+# Discord
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.page.link
 
 # HomeBrew
 DOMAIN-SUFFIX,homebrew.bintray.com
@@ -36,6 +71,10 @@ DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,nhncorp.jp
+
+# Media
+DOMAIN-SUFFIX,asiatimes.com
+DOMAIN-SUFFIX,zaobao.com
 
 # Microsoft
 USER-AGENT,OneDrive*
@@ -50,6 +89,15 @@ DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,onedrive.live.com // OneDrive
 DOMAIN-SUFFIX,visualstudio.com // VS Code
 DOMAIN,marketplace.visualstudio.com
+
+# OpenAI
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,cdn.openai.com
+DOMAIN-SUFFIX,platform.openai.com
+
+# Proxy
+DOMAIN-SUFFIX,chaoxi.fun // chaoxi节点列表
+DOMAIN-SUFFIX,feedneo.net // neo节点列表
 
 # Spark
 DOMAIN-SUFFIX,api.amplitude.com
@@ -66,9 +114,31 @@ DOMAIN-SUFFIX,steamstatic.com
 
 # Sublim
 DOMAIN-SUFFIX,packagecontrol.io
+DOMAIN,download.sublimetext.com
 
 # Telegram
 DOMAIN-SUFFIX,tele.me
+
+#Zoom
+PROCESS-NAME,/Applications/zoom.us.app/Contents/MacOS/zoom.us
+DOMAIN-SUFFIX,zoom.us
+
+# Others
+DOMAIN-SUFFIX,picsart.com
+DOMAIN-SUFFIX,mdeditor.tw
+DOMAIN-SUFFIX,patreon.com
+DOMAIN-SUFFIX,hinative.com // hinative App
+DOMAIN-SUFFIX,diygod.me
+DOMAIN-SUFFIX,v2ex.com 
+DOMAIN-SUFFIX,cf-st.sc-cdn.net
+DOMAIN-SUFFIX,vial.today
+DOMAIN,nspasteboard.org
+DOMAIN-SUFFIX,caniusevia.com
+DOMAIN-SUFFIX,swiftobc.com
+DOMAIN-SUFFIX,bjango.com
+DOMAIN-SUFFIX,discourse-cdn.com
+DOMAIN-SUFFIX,privatetunnel.com
+DOMAIN-SUFFIX,goodsmile.info
 
 # Top blocked sites
 DOMAIN-SUFFIX,2o7.net

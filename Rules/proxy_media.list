@@ -184,3 +184,9 @@ USER-AGENT,Vidol*
 USER-AGENT,Anime*
 DOMAIN-SUFFIX,cdn.hinet.net
 DOMAIN-SUFFIX,vidol.tv
+
+# Disney 迪士尼
+DOMAIN,search-api-disney.svcs.dssott.com
+DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,disney-plus.net
+
