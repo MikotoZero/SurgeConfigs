@@ -60,6 +60,9 @@ DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.page.link
 
+# FaceApp
+DOMAIN-SUFFIX,faceapp.io
+
 # HomeBrew
 DOMAIN-SUFFIX,homebrew.bintray.com
 
@@ -90,11 +93,6 @@ DOMAIN-SUFFIX,onedrive.live.com // OneDrive
 DOMAIN-SUFFIX,visualstudio.com // VS Code
 DOMAIN,marketplace.visualstudio.com
 
-# OpenAI
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,cdn.openai.com
-DOMAIN-SUFFIX,platform.openai.com
-
 # Proxy
 DOMAIN-SUFFIX,chaoxi.fun // chaoxi节点列表
 DOMAIN-SUFFIX,feedneo.net // neo节点列表
@@ -116,10 +114,15 @@ DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,packagecontrol.io
 DOMAIN,download.sublimetext.com
 
+# TapTap - 国际版
+DOMAIN-SUFFIX,taptap.io 
+DOMAIN-SUFFIX,tapimg.net
+DOMAIN-SUFFIX,tap.io
+
 # Telegram
 DOMAIN-SUFFIX,tele.me
 
-#Zoom
+# Zoom
 PROCESS-NAME,/Applications/zoom.us.app/Contents/MacOS/zoom.us
 DOMAIN-SUFFIX,zoom.us
 
@@ -139,6 +142,7 @@ DOMAIN-SUFFIX,bjango.com
 DOMAIN-SUFFIX,discourse-cdn.com
 DOMAIN-SUFFIX,privatetunnel.com
 DOMAIN-SUFFIX,goodsmile.info
+DOMAIN-SUFFIX,scribdassets.com
 
 # Top blocked sites
 DOMAIN-SUFFIX,2o7.net
