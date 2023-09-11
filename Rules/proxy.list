@@ -1,3 +1,4 @@
+## Custom
 # 你懂的
 DOMAIN-SUFFIX,dmhy.org // 动漫花园
 DOMAIN-SUFFIX,36dm.club // 简单动漫 BT下载
@@ -46,6 +47,9 @@ DOMAIN-SUFFIX,neoproxy.org
 
 # Akamai
 DOMAIN-SUFFIX,akamaized.net
+
+# AppLovin
+DOMAIN,artifacts.applovin.com
 
 # Blogs
 DOMAIN-SUFFIX,rderik.com
@@ -122,6 +126,11 @@ DOMAIN-SUFFIX,tap.io
 # Telegram
 DOMAIN-SUFFIX,tele.me
 
+# The Movie Database
+
+# TV Database
+DOMAIN-SUFFIX,thetvdb.com
+
 # Zoom
 PROCESS-NAME,/Applications/zoom.us.app/Contents/MacOS/zoom.us
 DOMAIN-SUFFIX,zoom.us
@@ -144,7 +153,7 @@ DOMAIN-SUFFIX,privatetunnel.com
 DOMAIN-SUFFIX,goodsmile.info
 DOMAIN-SUFFIX,scribdassets.com
 
-# Top blocked sites
+## Top blocked sites
 DOMAIN-SUFFIX,2o7.net
 DOMAIN-SUFFIX,4everProxy.com
 DOMAIN-SUFFIX,4shared.com
