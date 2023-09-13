@@ -101,6 +101,9 @@ DOMAIN,marketplace.visualstudio.com
 DOMAIN-SUFFIX,chaoxi.fun // chaoxi节点列表
 DOMAIN-SUFFIX,feedneo.net // neo节点列表
 
+# PTTime
+DOMAIN-SUFFIX,pttime.org
+
 # Spark
 DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,app.smartmailcloud.com
