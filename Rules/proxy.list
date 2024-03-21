@@ -104,6 +104,7 @@ DOMAIN,marketplace.visualstudio.com
 # Proxy
 DOMAIN-SUFFIX,chaoxi.fun // chaoxi节点列表
 DOMAIN-SUFFIX,feedneo.net // neo节点列表
+DOMAIN-SUFFIX,wgetcloud.org // wgetcloud 主页
 
 # PTTime
 DOMAIN-SUFFIX,pttime.org
