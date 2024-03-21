@@ -16,6 +16,10 @@ DOMAIN-SUFFIX,seku.icu
 DOMAIN-SUFFIX,69vj.com
 DOMAIN-SUFFIX,thisav.com
 DOMAIN-SUFFIX,torrentkitty.tv
+DOMAIN-SUFFIX,arzon.jp // Added for: www.arzon.jp:443
+DOMAIN-SUFFIX,jav321.com // Added for: www.jav321.com:443
+DOMAIN,post.picturedata.org // Added for: post.picturedata.org:443
+DOMAIN-SUFFIX,patreonusercontent.com // Added for: c10.patreonusercontent.com:443
 
 # Client
 PROCESS-NAME,Backup and Sync
