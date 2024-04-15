@@ -18,8 +18,9 @@ DOMAIN-SUFFIX,thisav.com
 DOMAIN-SUFFIX,torrentkitty.tv
 DOMAIN-SUFFIX,arzon.jp // Added for: www.arzon.jp:443
 DOMAIN-SUFFIX,jav321.com // Added for: www.jav321.com:443
+DOMAIN-SUFFIX,avbase.net // Added for: www.avbase.net:443
 DOMAIN,post.picturedata.org // Added for: post.picturedata.org:443
-DOMAIN-SUFFIX,patreonusercontent.com // Added for: c10.patreonusercontent.com:443
+DOMAIN-SUFFIX,pic.duga.jp
 
 # Client
 PROCESS-NAME,Backup and Sync
@@ -43,6 +44,7 @@ USER-AGENT,WhatsApp*
 
 #1Password
 PROCESS-NAME,1Password Updater // 1Password升级
+DOMAIN,cache.agilebits.com // 1Password 图标缓存
 
 # AgentNEO
 DOMAIN-SUFFIX,agentneo.io
@@ -101,6 +103,10 @@ DOMAIN-SUFFIX,onedrive.live.com // OneDrive
 DOMAIN-SUFFIX,visualstudio.com // VS Code
 DOMAIN,marketplace.visualstudio.com
 
+# Patreon
+DOMAIN-SUFFIX,patreon.com
+DOMAIN-SUFFIX,patreonusercontent.com 
+
 # Proxy
 DOMAIN-SUFFIX,chaoxi.fun // chaoxi节点列表
 DOMAIN-SUFFIX,feedneo.net // neo节点列表
@@ -146,7 +152,6 @@ DOMAIN-SUFFIX,zoom.us
 # Others
 DOMAIN-SUFFIX,picsart.com
 DOMAIN-SUFFIX,mdeditor.tw
-DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,hinative.com // hinative App
 DOMAIN-SUFFIX,diygod.me
 DOMAIN-SUFFIX,v2ex.com 
