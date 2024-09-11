@@ -1,4 +1,7 @@
 ## Custom
+DOMAIN-SUFFIX,ytimg.com // Added for: i.ytimg.com:443
+DOMAIN-SUFFIX,z-library.rs
+
 # 你懂的
 DOMAIN-SUFFIX,dmhy.org // 动漫花园
 DOMAIN-SUFFIX,36dm.club // 简单动漫 BT下载
@@ -16,11 +19,6 @@ DOMAIN-SUFFIX,seku.icu
 DOMAIN-SUFFIX,69vj.com
 DOMAIN-SUFFIX,thisav.com
 DOMAIN-SUFFIX,torrentkitty.tv
-DOMAIN-SUFFIX,arzon.jp // Added for: www.arzon.jp:443
-DOMAIN-SUFFIX,jav321.com // Added for: www.jav321.com:443
-DOMAIN-SUFFIX,avbase.net // Added for: www.avbase.net:443
-DOMAIN,post.picturedata.org // Added for: post.picturedata.org:443
-DOMAIN-SUFFIX,pic.duga.jp
 
 # Client
 PROCESS-NAME,Backup and Sync

@@ -3,3 +3,6 @@ DOMAIN-SUFFIX,bugly.qq.com
 
 # 心动网络
 DOMAIN-SUFFIX,doubleclick.net
+
+DOMAIN,login.microsoftonline.com // 企业组
+DOMAIN-SUFFIX,events.data.microsoft.com // 企业组

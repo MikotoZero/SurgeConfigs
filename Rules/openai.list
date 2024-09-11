@@ -1,3 +1,4 @@
 # OpenAI
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN,cdn.oaistatic.com // openai 的 CDN

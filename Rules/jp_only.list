@@ -1,2 +1,11 @@
 # 日本ip限定
 
+DOMAIN-SUFFIX,javdb.com // Added for: javdb.com:443
+DOMAIN-SUFFIX,dmm.co.jp // 呵呵
+DOMAIN-SUFFIX,duga.jp
+DOMAIN-SUFFIX,arzon.jp // Added for: www.arzon.jp:443
+DOMAIN-SUFFIX,jav321.com // Added for: www.jav321.com:443
+DOMAIN-SUFFIX,avbase.net // Added for: www.avbase.net:443
+DOMAIN-SUFFIX,picturedata.org // Added for: post.picturedata.org:443
+DOMAIN-SUFFIX,faleno.jp
+DOMAIN-SUFFIX,dahlia-av.jp
