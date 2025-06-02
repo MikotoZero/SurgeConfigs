@@ -1,6 +1,0 @@
-# OpenAI
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,sora.com // sora 官网
-DOMAIN-SUFFIX,sora-cdn.oaistatic.com // sora 的 CDN
-DOMAIN,cdn.oaistatic.com // openai 的 CDN

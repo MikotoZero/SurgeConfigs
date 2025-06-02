@@ -1,6 +1,7 @@
 ## Custom
 DOMAIN-SUFFIX,ytimg.com // Added for: i.ytimg.com:443
 DOMAIN-SUFFIX,z-library.rs
+DOMAIN-SUFFIX,boluob.com // Added for: www.boluob.com:443
 
 # 你懂的
 DOMAIN-SUFFIX,dmhy.org // 动漫花园
