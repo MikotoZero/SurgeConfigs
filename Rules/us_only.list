@@ -8,3 +8,7 @@ DOMAIN,cdn.oaistatic.com // openai 的 CDN
 # Reddit
 DOMAIN-SUFFIX,reddit.com // Added for: www.reddit.com:443
 DOMAIN-SUFFIX,redditstatic.com // Added for: www.redditstatic.com:443
+
+# Claude Code
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
