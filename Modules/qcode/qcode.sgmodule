@@ -1,12 +1,9 @@
 #!name=QCode API User-Agent Modifier
 #!desc=Modify User-Agent header for asia.qcode.cc API requests
-#!author=MikotoZero
-#!homepage=https://github.com/MikotoZero/SurgeConfigs
-#!icon=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Global.png
 #!system=ios
 
 [Script]
-qcode-ua = type=http-request,pattern=^https://asia\.qcode\.cc/api,script-path=https://raw.githubusercontent.com/MikotoZero/SurgeConfigs/master/Modules/qcode/qcode.js,requires-body=false,timeout=10,max-size=131072
+QCode UA Modifier = type=http-request, pattern=^https://asia\.qcode\.cc/api, script-path=https://raw.githubusercontent.com/MikotoZero/SurgeConfigs/master/Modules/qcode/qcode.js, requires-body=false, timeout=10
 
 [MITM]
-hostname = asia.qcode.cc
+hostname = %APPEND% asia.qcode.cc
