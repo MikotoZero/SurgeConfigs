@@ -144,6 +144,10 @@ DOMAIN-SUFFIX,tele.me
 # TV Database
 DOMAIN-SUFFIX,thetvdb.com
 
+# X.com (Twitter)
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+
 # Zoom
 PROCESS-NAME,/Applications/zoom.us.app/Contents/MacOS/zoom.us
 DOMAIN-SUFFIX,zoom.us
@@ -753,7 +757,6 @@ DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,telegram
-DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,1e100.net
