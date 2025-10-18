@@ -20,6 +20,8 @@ DOMAIN-SUFFIX,seku.icu
 DOMAIN-SUFFIX,69vj.com
 DOMAIN-SUFFIX,thisav.com
 DOMAIN-SUFFIX,torrentkitty.tv
+DOMAIN-SUFFIX,pixel.dcard.tw // 072project
+DOMAIN-SUFFIX,072project.com // 072project
 
 # Client
 PROCESS-NAME,Backup and Sync
