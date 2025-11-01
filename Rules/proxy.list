@@ -86,6 +86,9 @@ DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,nhncorp.jp
 
+# MakerWorld
+DOMAIN-SUFFIX,makerworld.com
+
 # Media
 DOMAIN-SUFFIX,asiatimes.com
 DOMAIN-SUFFIX,zaobao.com
