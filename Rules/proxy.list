@@ -64,9 +64,14 @@ DOMAIN,www.andyibanez.com
 DOMAIN-SUFFIX,programmersought.com
 DOMAIN,syy.hk
 
+# Docker
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+
 # Discord
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.me
 DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.page.link
@@ -76,6 +81,9 @@ DOMAIN-SUFFIX,faceapp.io
 
 # HomeBrew
 DOMAIN-SUFFIX,homebrew.bintray.com
+
+# itch
+DOMAIN-SUFFIX,itch.io
 
 # Line
 DOMAIN-SUFFIX,lin.ee
@@ -107,11 +115,14 @@ DOMAIN-SUFFIX,onedrive.live.com // OneDrive
 DOMAIN-SUFFIX,visualstudio.com // VS Code
 DOMAIN,marketplace.visualstudio.com
 
+# NPM
+DOMAIN-SUFFIX,npmjs.org
+
 # Patreon
 DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,patreonusercontent.com 
 
-# Proxy
+# Proxies
 DOMAIN-SUFFIX,chaoxi.fun // chaoxi节点列表
 DOMAIN-SUFFIX,feedneo.net // neo节点列表
 DOMAIN-SUFFIX,wgetcloud.org // wgetcloud 主页
@@ -301,7 +312,6 @@ DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dnsimple.com
-DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,doub.io
 DOMAIN-SUFFIX,dowjones.com
 DOMAIN-SUFFIX,dribbble.com
