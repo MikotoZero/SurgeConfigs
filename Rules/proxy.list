@@ -65,7 +65,7 @@ DOMAIN-SUFFIX,programmersought.com
 DOMAIN,syy.hk
 
 # cdns
-DOMAIN-SUFFIX,cnd.jsdelivr.net
+DOMAIN-SUFFIX,cdn.jsdelivr.net
 
 # Docker
 DOMAIN-SUFFIX,docker.com
