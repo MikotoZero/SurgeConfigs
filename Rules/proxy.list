@@ -1,4 +1,5 @@
 ## Custom
+DOMAIN-SUFFIX,huggingface.co // ComfyUI
 DOMAIN-SUFFIX,ytimg.com // Added for: i.ytimg.com:443
 DOMAIN-SUFFIX,z-library.rs
 DOMAIN-SUFFIX,boluob.com // Added for: www.boluob.com:443
