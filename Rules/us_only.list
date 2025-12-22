@@ -12,3 +12,6 @@ DOMAIN-SUFFIX,redditstatic.com // Added for: www.redditstatic.com:443
 # Claude Code
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
+
+# Google AI Studio
+DOMAIN-SUFFIX,aistudio.google.com
